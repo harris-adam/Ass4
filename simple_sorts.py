@@ -5,7 +5,7 @@
 # Writing a sorting algorithm yourself is the best
 # way to learn how it works.
 # Modified by: Harris Adam
-
+# Help from Classmate, Google, And Cs Tutor 
 
 def bubble_sort(lst):
     """Sort lst in place. Repeatedly swap adjacent out-of-order items."""
