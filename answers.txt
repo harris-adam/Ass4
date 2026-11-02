@@ -1,0 +1,8 @@
+Names: Harris Adam
+
+1. Bubble sort does more swaps (about n^2/4) than selection sort (at most n) and also insertion sort.
+
+2. Big-O dosent count constant factors. Sorts with the same Big-O can difer in number of comparisons.
+
+3. The class must be comparable.
+
