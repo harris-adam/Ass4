@@ -6,3 +6,4 @@ Names: Harris Adam
 
 3. The class must be comparable.
 
+4. It is more for Fundamentals 
